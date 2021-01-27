@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> GUA MASLENT
+## < img  src = " https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif "  width = "29px" > GUAI
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -13,7 +13,7 @@
 <a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/ichi-lent/ichi/badge/main"></a>
+< A  href = " https://www.codefactor.io/repository/github/A187ID/AR15BOT " > < img  title = "Rating"  src = " https://www.codefactor.io/repository/github/ichi- dipinjamkan / ichi / badge / main " > </ a >
 </p>
 <p align="center">
 <a href="https://github.com/ichi-lent/ichi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ICHI?color=blue&style=flat-square"></a>
