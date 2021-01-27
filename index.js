@@ -1,8 +1,7 @@
 //kalau Ga Ngerti Jangan di Ubah Ubah Biarin ae versi standart
 //Lu mau Nyari nomor owner?? Gaada Lu scan Udh jdi owner
 //Mau Nyari apa lu ke sini njir awok""
-//Jangan Lupa Subscribe Maslent Yt
-//THNX TO NURUTOMO
+//THNX TO IBNU
 let { WAConnection: _WAConnection, WA_MESSAGE_STUB_TYPES } = require('@adiwajshing/baileys')
 let { generate } = require('qrcode-terminal')
 let qrcode = require('qrcode')
@@ -204,9 +203,9 @@ global.prems = []
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    owner: 'Perintah ini hanya dapat digunakan oleh Owner Ichi!',
-    mods: 'Perintah ini hanya dapat digunakan oleh Moderator ichi!',
-    premium: 'Perintah ini hanya untuk member Premium ichi!',
+    owner: 'Perintah ini hanya dapat digunakan oleh Owner Ibham!',
+    mods: 'Perintah ini hanya dapat digunakan oleh Moderator Ibham!',
+    premium: 'Perintah ini hanya untuk member Premium Ibham!',
     group: 'Perintah ini hanya dapat digunakan di grup!',
     private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
     admin: 'Perintah ini hanya untuk admin grup!',
@@ -263,7 +262,7 @@ fs.watch(path.join(__dirname, 'plugins'), global.reload)
 
 process.on('exit', () => global.DATABASE.save())
 
-//THANX TO NURUTOMO
-//THANX TO MASLENT YT
+//THANX TO IBNU
+//THANX TO FALAH
 //THANX TO ALL CREATOR BOT
 //JANGAN UBAH2 TOL
