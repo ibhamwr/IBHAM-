@@ -1,4 +1,4 @@
-## < img  src = " https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif "  width = "29px" > GUAI
+## IBHAM
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/aris/A187.jpg" width="230" height="230"/>
 </p>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="😎MASLENT😎" src="https://img.shields.io/badge/ICHI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="😎IBHAM😎" src="https://img.shields.io/badge/ICHI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ichi-lent"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MASLENT GANS-orange.svg?style=for-the-badge&logo=github"></a>
@@ -26,16 +26,9 @@
 <div align="center">
 <details>
  
-</details>
 
-XXX 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗠𝗵𝗮𝗻𝗸𝗕𝗮𝗿𝗕𝗮𝗿
 
-XXX WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
-XX NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
 
 XXX ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahannya.
@@ -49,13 +42,13 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+### CARA INSTALLNYA  <img src="https://github.com/ibhamwr/IBHAM-" width="29px">
 Script ini di modifikasi sama saya sendiri MaslentGans.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> pkg install git
-> pkg install ffmpeg
+> pkg 
+> pkg instal ffmpeg
 > pkg install imagemagick
 > pkg install nodejs
 > git clone https://github.gua salin ae di atas
